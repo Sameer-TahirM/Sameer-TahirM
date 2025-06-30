@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Check out the link below for my Projects!
+https://github.com/Sameer-TahirM/Projects
 <!--
 **Sameer-TahirM/Sameer-TahirM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
